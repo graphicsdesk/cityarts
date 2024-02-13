@@ -7,12 +7,194 @@
       "root": "./src/partials",
       "locals": {
         "top": [],
-        "body": [],
+        "body": [
+          {
+            "type": "text",
+            "value": "While West Harlem’s rich artistic and cultural scene works to persevere, persistent systemic challenges may limit the preservation of this storied community."
+          },
+          {
+            "type": "text",
+            "value": "In a familiar occurrence, recent city budget cuts are set to decrease funding to arts and cultural programming throughout the city for fiscal year 2024. Although major arts and cultural institutions city-wide will <a href=\"https://www.cignyc.org/fy-24-culture-cuts\">take a hit</a> from the budget cuts and have advocated against the measure, West Harlem community members say that this move will hit smaller, local programs the hardest."
+          },
+          {
+            "type": "text",
+            "value": "Access to funding sources, space for programming, and recognition of arts and cultural initiatives are some of the most significant challenges that programs face in West Harlem."
+          },
+          {
+            "type": "text",
+            "value": "“A lot of what our work is, especially through the Community Benefits Agreement, is to … promote and support the vibrancy of West Harlem,” Michael Palma, executive director of the West Harlem Arts Alliance, said. “It is one of the most culturally diverse communities, not only in Harlem but in all of Manhattan and only second to Jackson Heights in all of the city.”"
+          },
+          {
+            "type": "text",
+            "value": "<b>Access to space</b>"
+          },
+          {
+            "type": "text",
+            "value": "When it comes to accessing space for West Harlem organizations, the Community Benefits Agreement between Columbia and the West Harlem Development Corporation laid out some key measures for arts and cultural programming. However, 14 years into the agreement, many community members say that they have not fully seen the promised benefits, particularly when it comes to spaces for arts and culture programs."
+          },
+          {
+            "type": "text",
+            "value": "“There’s an allocation in [the Community Benefits Agreement] for space,” Tina Lumley, co-chair of the Community Board 9 arts and culture committee, said. “We’re working with Columbia now towards that goal, and hopefully something will happen, this effort will be fruitful, and we’ll have a place for our artists to engage, meaning practice their arts, being able to have performance spaces, et cetera, but it’s been a bit of a challenge.”"
+          },
+          {
+            "type": "text",
+            "value": "The CBA established a goal of encouraging “the inclusion of Harlem artists in the CU arts and cultural programs,” which included a commitment to creating a 5,000-square-foot arts space for the local community. This permanent space is intended to be completed during the next cycle of Columbia’s construction. According to Victor Edwards, board chair of CB9, the University recently proposed a temporary space at the former location of Floridita restaurant at 2276 12th Ave."
+          },
+          {
+            "type": "text",
+            "value": "In a written statement to the Spectator, a University spokesperson confirmed Columbia’s commitment to the CBA promise of providing space for local arts and cultural programs."
+          },
+          {
+            "type": "text",
+            "value": "“As stated in the Community Benefits Agreement, Columbia will make space on or near its campus available for use by local artists and arts organizations, a commitment which will be triggered by the development of a future phase of the Manhattanville Campus,” a University spokesperson wrote."
+          },
+          {
+            "type": "text",
+            "value": "However, Daria Hardeman, co-chair of the CB9 arts and culture committee, said that the space would be difficult for the board to work with and perhaps even lead to the community incurring more costs."
+          },
+          {
+            "type": "text",
+            "value": "“It’s still appointed as a restaurant, it still has the kitchen … it still has the bar,” Hardeman said. “We would have to come up with the money for the demolition and the build-out. … It would just be cost-prohibitive for us to go into a space like that, gut it, build it out, and then have to leave it once the permanent space is ready.”"
+          },
+          {
+            "type": "text",
+            "value": "As part of the CBA, the University also committed to making “a range of existing CU facilities, services and amenities with a total market value of $20,000,000” publicly accessible, collectively referred to as “In-Kind Benefits.”"
+          },
+          {
+            "type": "text",
+            "value": "“Through our ongoing conversations, leadership from the WHDC and CB9 identified local arts space as a current priority and approached us with an interest in working with Columbia to advance the delivery of this commitment,” the University spokesperson wrote in a statement to the Spectator. “We responded enthusiastically and have been working diligently to identify a suitable space. We look forward to continuing that work with our local partners toward activating a community arts space, whether it is the old Floridita site or another venue nearby.”"
+          },
+          {
+            "type": "text",
+            "value": "While arts and cultural organizations are still finding difficulty using Columbia’s facilities for their programming, many feel that there are few other viable alternatives and are still trying to work to access these spaces."
+          },
+          {
+            "type": "text",
+            "value": "“Hopefully we’ll be able to facilitate that as a service to the community and for Columbia University,” Palma said. “Columbia University doesn’t seem to have the wherewithal to actually manage requests for use of space at their many, many spaces on campus.”"
+          },
+          {
+            "type": "text",
+            "value": "<b>Access to funding</b>"
+          },
+          {
+            "type": "text",
+            "value": "Community members working with arts and cultural programs have long advocated for more funding in West Harlem. According to data published by Hue Arts, a project that publishes data and information on arts entities to further conversations with funding sources, “POC arts entities face extra layers of challenges in securing adequate funding in comparison to predominantly white-led arts entities.”"
+          },
+          {
+            "type": "text",
+            "value": "As of 2021, West Harlem was made up of 10.2 percent Asian residents, 18.2 percent Black residents, and 39.8 percent Hispanic residents, according to a report by the NYU Furman Center. The HueArts New York State report found that almost two-thirds of over 550 arts entities of color operated with budgets below $100,000, including 400 in New York City."
+          },
+          {
+            "type": "text",
+            "value": "“The main challenge is getting support from local districts, corporations, institutions,” Sade Boweya El, founder and chief curator of Faces of Harlem, said. “We have documented numbers of people coming out to see this but we’re still not getting the support we need.”"
+          },
+          {
+            "type": "text",
+            "value": "Ricardo Aguirre, legislative director and counsel to Assembly member Inez Dickens, said that arts and cultural programs often get restricted by budget cuts before other city programs."
+          },
+          {
+            "type": "text",
+            "value": "“We need to get away from this habit of: every time you have to put the budget on the chopping block, the first thing that goes is arts and culture and sports,” Aguirre said. “It’s doing our youth a disfavor.”"
+          },
+          {
+            "type": "text",
+            "value": "<b>Current local initiatives </b>"
+          },
+          {
+            "type": "text",
+            "value": "Despite these barriers, locally-led initiatives are working to protect and expand arts and cultural programming in West Harlem. Harlem Late Night Jazz works to preserve and expand the jazz and nightlife scene through hosting regular performances at venues such as Dinosaur Bar-B-Que."
+          },
+          {
+            "type": "text",
+            "value": "Savona Bailey-McClain, executive director of the West Harlem Art Fund, is a leader of Harlem’s first large scale sculpture exhibit, Harlem Sculpture Garden, which will be on display in Morningside Park, St. Nicholas Park, and Jackie Robinson Park in spring 2024. Olutayo Bosede, founder of The Stoop Coop, has held regular outdoor performances that often attract the attention of passersby and have recurring attendees."
+          },
+          {
+            "type": "text",
+            "value": "“One of the things that I’ve found is that some people in Harlem are taking it to the streets,” Hardeman said of the effort to preserve arts and culture in the community. “Where there’s a will, there’s a way. And where there are holes, artists are always going to create. And this is the kind of thing that is happening.”"
+          },
+          {
+            "type": "text",
+            "value": "Meanwhile, Palma said that the West Harlem Arts Alliance is focused on supporting artists and West Harlem programs in accessing economic opportunities, resources, and workforce development as a way through which to ensure and support those working in the arts."
+          },
+          {
+            "type": "text",
+            "value": "“Our job as an arts advocacy organization comes by way of: our convening, our technical assistance workshops, our A-list artist directory to develop a workforce of all the various artists and disciplines in the area, and our events calendar,” Palma said."
+          },
+          {
+            "type": "text",
+            "value": "<b>Designation of arts and culture district </b>"
+          },
+          {
+            "type": "text",
+            "value": "Since 2015, a caucus of New York State politicians, including Harlem elected officials, have advocated for a statewide bill that would provide guidelines and criteria for designation of arts and cultural districts in New York State. The bill, formally known as Assembly Bill A2563A in New York State Assembly and as Senate Bill S253A in the New York State Senate, was unanimously passed during most Senate sessions since 2016."
+          },
+          {
+            "type": "text",
+            "value": "According to a written statement to the Spectator from Assembly member Aileen M. Gunther, sponsor of Assembly Bill A2563A, it was supported in the Assembly but adjustments were needed to capture “the full scope of the artistic community.” However, efforts to pass the bill have continued, and many note that if it were to pass it would particularly impact West Harlem."
+          },
+          {
+            "type": "text",
+            "value": "“Designated Arts and Cultural Districts, whether within one municipality or multiple, would qualify for assistance from the Council of the Arts and the Empire State Development Corporation when applying for grants, marketing, tourism opportunities as well as receive additional state resources and economic development opportunities,” Gunther wrote in a statement to Spectator. “This legislation would be a boon to local tourism, job growth and culture across New York.”"
+          },
+          {
+            "type": "text",
+            "value": "Aguirre said that Dickens, a co-sponsor of the arts and culture Assembly Bill A2563A, sees the measure as a way to protect educational and economic opportunities that come with arts programming in Harlem."
+          },
+          {
+            "type": "text",
+            "value": "“One of the most important things … is to always make sure that there’s some type of legislation to not only preserve but also to promote and to provide financial assistance to organizations and groups that are promoting the arts in our community,”Aguirre said."
+          },
+          {
+            "type": "text",
+            "value": "Currently, the arts and culture designation bill is in Assembly committee and Senate committee."
+          },
+          {
+            "type": "text",
+            "value": "<b>Impact of arts and culture programs in West Harlem</b>"
+          },
+          {
+            "type": "text",
+            "value": "Above all, those involved in supporting arts and cultural programming for West Harlem emphasize the importance of its existence for community building, employment, and educational opportunities."
+          },
+          {
+            "type": "text",
+            "value": "“So many programs, including many that deal with the arts, they have really been the … anchor organizations, such as those cultures that exist in West Harlem that have really helped turn around the community,” Palma said."
+          },
+          {
+            "type": "text",
+            "value": "John-Martin Green, founder and executive director of The Gatekeeper’s Collective and co-founder and co-artistic director of Blackberry Productions Theatre Company, focuses on using arts to convene and engage community members in projects that reflect their identities and lived experiences."
+          },
+          {
+            "type": "text",
+            "value": "“Our role and responsibility is holding up a mirror to the community to reflect the issues impacting the community and creating forums … for a multiplicity of voices, community stakeholders, who we bring together in solution-focused reflection on the issues impacting the community,”Green said."
+          },
+          {
+            "type": "text",
+            "value": "Liz Player, founder of the Harlem Chamber Players, emphasized the necessary positive impact that arts and cultural programming brings to the West Harlem community."
+          },
+          {
+            "type": "text",
+            "value": "“People forget that the arts are important, that the arts are healing and … bring more economic advantages to the community,” Player said. “There’s a way that music and art just transforms our minds when we’re troubled. It takes us out of our every day problems and just brings us into a new space and it’s really important that people understand that and support the arts.”"
+          },
+          {
+            "type": "text",
+            "value": "<i>City News Deputy Editor Chimene Keys can be contacted at </i><a href=\"mailto:chimene.keys@columbiaspectator.com\"><i>chimene.keys@columbiaspectator.com</i></a><i>. Follow her on X </i><a href=\"https://twitter.com/Keys15KeysCK\"><i>@</i></a><a href=\"https://twitter.com/Keys15KeysCK\"><i>Keys15KeysCK</i></a><i>. </i>"
+          },
+          {
+            "type": "text",
+            "value": "<b><i>Want to keep up with breaking news? Subscribe to our </i></b><a href=\"https://columbiaspectator.us4.list-manage.com/subscribe?u=a3d2eeb1ae5560ca04f82f042&id=e51c51d62d\"><b><i>email newsletter </i></b></a><b><i>and like Spectator on </i></b><a href=\"https://www.facebook.com/columbiaspectator\"><b><i>Facebook</i></b></a><b><i>.</i></b>"
+          }
+        ],
+        "headline": "Preserving a community anchor: West Harlem’s arts and culture programs work to maintain and expand economic and community building initiatives",
+        "date": "February 13, 2024",
+        "byline": "By <a href=\"https://www.columbiaspectator.com/contributors/chimene-keys/\">Chimene Keys</a>",
+        "cover_asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/W6EB6BKIP5EZRJ57FSYOR2UVWI.JPG",
+        "cover_caption": "Kelsea Petersen / Illustrations Editor",
         "USE_NEWS_NAV": true,
         "USE_EYE_NAV": false,
-        "USE_COVER_HED": false,
+        "USE_COVER_HED": true,
         "IS_EMBED": false,
-        "DOC_URL": null
+        "DOC_URL": "https://docs.google.com/document/d/1b7uLTUzCMzI7jj2g4fLelyUK4-IjNeG3KUbDNQVD1DM/edit"
       }
     }
   }
